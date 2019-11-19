@@ -1,2 +1,0 @@
-# alien-game
-alien game 
