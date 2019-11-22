@@ -36,6 +36,11 @@ class Alien(Sprite):
  
 class Alien_higher_1(Alien):
     """ A class to represent higher class enemy."""
+    def __init__(self, ai_game):
+        super().__init__()
+    
+        
+    
     
     
         
