@@ -33,3 +33,9 @@ class Alien(Sprite):
         self.x += (self.settings.alien_speed *
                    self.settings.fleet_direction)
         self.rect.x = self.x
+ 
+class Alien_higher_1(Alien):
+    """ A class to represent higher class enemy."""
+    
+    
+        
