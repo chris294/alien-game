@@ -34,9 +34,8 @@ class Alien(Sprite):
                    self.settings.fleet_direction)
         self.rect.x = self.x
  
-class alien_higher_1(Alien):
+class Alien_higher_1(Alien):
     """ A class to represent higher class enemy."""
     
-    def ___init___(self, ai_game):
-        super().__init__()
+    
         
